@@ -1,0 +1,332 @@
+\begin{thebibliography}{10}
+
+\bibitem{conf/paclic/BalahurKSSM09}
+A.~Balahur, M.~A. Kabadjov, J.~Steinberger, R.~Steinberger, and A.~Montoyo.
+\newblock Summarizing opinions in blog threads.
+\newblock In O.~Kwong, editor, {\em PACLIC}, pages 606--613. City University of
+  Hong Kong Press, 2009.
+
+\bibitem{Beineke+al:04a}
+P.~Beineke, T.~Hastie, C.~Manning, and S.~Vaithyanathan.
+\newblock Exploring sentiment summarization.
+\newblock In Y.~Qu, J.~Shanahan, and J.~Wiebe, editors, {\em Proceedings of the
+  {AAAI} Spring Symposium on Exploring Attitude and Affect in Text: Theories
+  and Applications}. AAAI Press, 2004.
+\newblock AAAI technical report SS-04-07.
+
+\bibitem{Carbonell98theuse}
+J.~Carbonell and J.~Goldstein.
+\newblock The use of mmr, diversity-based reranking for reordering documents
+  and producing summaries.
+\newblock In {\em In SIGIR}, pages 335--336, 1998.
+
+\bibitem{Carletta:1996:AAC:230386.230390}
+J.~Carletta.
+\newblock Assessing agreement on classification tasks: The kappa statistic.
+\newblock {\em Comput. Linguist.}, 22(2):249--254, June 1996.
+
+\bibitem{Erkan:2004:LGL:1622487.1622501}
+G.~Erkan and D.~R. Radev.
+\newblock Lexrank: Graph-based lexical centrality as salience in text
+  summarization.
+\newblock {\em J. Artif. Int. Res.}, 22(1):457--479, Dec. 2004.
+
+\bibitem{Esuli06sentiwordnet:a}
+A.~Esuli and F.~Sebastiani.
+\newblock Sentiwordnet: A publicly available lexical resource for opinion
+  mining.
+\newblock In {\em In Proceedings of the 5th Conference on Language Resources
+  and Evaluation (LREC?06}, pages 417--422, 2006.
+
+\bibitem{Goldstein:1999:STD:312624.312665}
+J.~Goldstein, M.~Kantrowitz, V.~Mittal, and J.~Carbonell.
+\newblock Summarizing text documents: Sentence selection and evaluation
+  metrics.
+\newblock In {\em Proceedings of the 22Nd Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '99,
+  pages 121--128, New York, NY, USA, 1999. ACM.
+
+\bibitem{Hahn:2000:CAS:619057.621587}
+U.~Hahn and I.~Mani.
+\newblock The challenges of automatic summarization.
+\newblock {\em Computer}, 33(11):29--36, Nov. 2000.
+
+\bibitem{DBLP:conf/ecir/HamidHT16}
+F.~Hamid, D.~Haraburda, and P.~Tarau.
+\newblock Evaluating text summarization systems with a fair baseline from
+  multiple reference summaries.
+\newblock In {\em Advances in Information Retrieval - 38th European Conference
+  on {IR} Research, {ECIR} 2016, Padua, Italy, March 20-23, 2016. Proceedings},
+  pages 351--365, 2016.
+
+\bibitem{DBLP:conf/petra/HamidT14}
+F.~Hamid and P.~Tarau.
+\newblock Text summarization as an assistive technology.
+\newblock In {\em Proceedings of the 7th International Conference on PErvasive
+  Technologies Related to Assistive Environments, {PETRA} 2014, Island of
+  Rhodes, Greece, May 27 - 30, 2014}, pages 60:1--60:4, 2014.
+
+\bibitem{DBLP:conf/cicling/HamidT15}
+F.~Hamid and P.~Tarau.
+\newblock Anti-summaries: Enhancing graph-based techniques for summary
+  extraction with sentiment polarity.
+\newblock In {\em Computational Linguistics and Intelligent Text Processing -
+  16th International Conference, CICLing 2015, Cairo, Egypt, April 14-20, 2015,
+  Proceedings, Part {II}}, pages 375--389, 2015.
+
+\bibitem{Hovy:1998:ATS:1119089.1119121}
+E.~Hovy and C.-Y. Lin.
+\newblock Automated text summarization and the summarist system.
+\newblock In {\em Proceedings of a Workshop on Held at Baltimore, Maryland:
+  October 13-15, 1998}, TIPSTER '98, pages 197--214, Stroudsburg, PA, USA,
+  1998. Association for Computational Linguistics.
+
+\bibitem{Hovy06automatedsummarization}
+E.~Hovy, C.~yew Lin, L.~Zhou, and J.~Fukumoto.
+\newblock Automated summarization evaluation with basic elements.
+\newblock In {\em In Proceedings of the Fifth Conference on Language Resources
+  and Evaluation (LREC}, 2006.
+
+\bibitem{Hulth:2003:IAK:1119355.1119383}
+A.~Hulth.
+\newblock Improved automatic keyword extraction given more linguistic
+  knowledge.
+\newblock In {\em Proceedings of the 2003 Conference on Empirical Methods in
+  Natural Language Processing}, EMNLP '03, pages 216--223, Stroudsburg, PA,
+  USA, 2003. Association for Computational Linguistics.
+
+\bibitem{Jing98summarizationevaluation}
+H.~Jing, R.~Barzilay, K.~Mckeown, and M.~Elhadad.
+\newblock {Summarization Evaluation Methods: Experiments and Analysis}.
+\newblock In {\em In AAAI Symposium on Intelligent Summarization}, 1998.
+
+\bibitem{H94-1018}
+K.~S. Jones.
+\newblock Towards better nlp system evaluation.
+\newblock In {\em HUMAN LANGUAGE TECHNOLOGY: Proceedings of a Workshop held at
+  Plainsboro, New Jersey, March 8-11, 1994}, pages 102--107, 1994.
+
+\bibitem{Kendall1938}
+M.~G. Kendall.
+\newblock A new measure of rank correlation.
+\newblock {\em Biometrika}, 30(1/2):pp. 81--93, 1938.
+
+\bibitem{Lin:2004a}
+C.~Y. Lin.
+\newblock Looking for a few good metrics: Automatic summarization evaluation -
+  how many samples are enough?
+\newblock In {\em Proceedings of the NTCIR Workshop 4}, 2004.
+
+\bibitem{Lin04rouge:a}
+C.-Y. Lin.
+\newblock Rouge: a package for automatic evaluation of summaries.
+\newblock pages 25--26, 2004.
+
+\bibitem{Lin:2003:AES:1073445.1073465}
+C.-Y. Lin and E.~Hovy.
+\newblock Automatic evaluation of summaries using n-gram co-occurrence
+  statistics.
+\newblock In {\em Proceedings of the 2003 Conference of the North American
+  Chapter of the Association for Computational Linguistics on Human Language
+  Technology - Volume 1}, NAACL '03, pages 71--78, Stroudsburg, PA, USA, 2003.
+  Association for Computational Linguistics.
+
+\bibitem{doi:10.2200/S00416ED1V01Y201204HLT016}
+B.~Liu.
+\newblock Sentiment analysis and opinion mining.
+\newblock {\em Synthesis Lectures on Human Language Technologies}, 5(1):1--167,
+  2012.
+
+\bibitem{Luhn:1958:ACL:1662353.1662360}
+H.~P. Luhn.
+\newblock The automatic creation of literature abstracts.
+\newblock {\em IBM J. Res. Dev.}, 2(2):159--165, Apr. 1958.
+
+\bibitem{Maybury:1999:AAT:554275}
+I.~Mani.
+\newblock {\em Advances in Automatic Text Summarization}.
+\newblock MIT Press, Cambridge, MA, USA, 1999.
+
+\bibitem{Mani99thetipster}
+I.~Mani, D.~House, G.~Klein, L.~Hirschman, T.~Firmin, and B.~Sundheim.
+\newblock The tipster summac text summarization evaluation, 1999.
+
+\bibitem{DBLP:conf/acl/ManiM01}
+I.~Mani and M.~T. Maybury.
+\newblock Automatic summarization.
+\newblock In {\em Association for Computational Linguistic, 39th Annual Meeting
+  and 10th Conference of the European Chapter, Companion Volume to the
+  Proceedings of the Conference: Proceedings of the Student Research Workshop
+  and Tutorial Abstracts, July 9-11, 2001, Toulouse, France.}, page~5, 2001.
+
+\bibitem{Mao+Lebanon:07a}
+Y.~Mao and G.~Lebanon.
+\newblock Isotonic conditional random fields and local sentiment flow.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2007.
+
+\bibitem{Marcu97fromdiscourse}
+D.~Marcu.
+\newblock From discourse structures to text summaries.
+\newblock In {\em In Proceedings of the ACL Workshop on Intelligent Scalable
+  Text Summarization}, pages 82--88, 1997.
+
+\bibitem{Marcu:1999:ACL:312624.312668}
+D.~Marcu.
+\newblock The automatic construction of large-scale corpora for summarization
+  research.
+\newblock In {\em Proceedings of the 22Nd Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '99,
+  pages 137--144, New York, NY, USA, 1999. ACM.
+
+\bibitem{Mihalcea04graph-basedranking}
+R.~Mihalcea.
+\newblock Graph-based ranking algorithms for sentence extraction, applied to
+  text summarization.
+\newblock In {\em In Proceedings of the ACL 2004 on Interactive poster and
+  demonstration sessions, ACLdemo Õ04}, 2004.
+
+\bibitem{Mihalcea04TextRank}
+R.~Mihalcea and P.~Tarau.
+\newblock {TextRank}: Bringing order into texts.
+\newblock In {\em Proceedings of {EMNLP-04}and the 2004 Conference on Empirical
+  Methods in Natural Language Processing}, July 2004.
+
+\bibitem{Miller95wordnet:a}
+G.~A. Miller.
+\newblock Wordnet: A lexical database for english.
+\newblock {\em COMMUNICATIONS OF THE ACM}, 38:39--41, 1995.
+
+\bibitem{Miller1990}
+G.~A. Miller, R.~Beckwith, C.~Fellbaum, D.~Gross, and K.~J. Miller.
+\newblock {Introduction to WordNet: an on-line lexical database}.
+\newblock {\em International Journal of Lexicography}, 3(4):235--244, 1990.
+
+\bibitem{Mishra:2011:FBP:1963405.1963485}
+A.~Mishra and A.~Bhattacharya.
+\newblock Finding the bias and prestige of nodes in networks based on trust
+  scores.
+\newblock In {\em Proceedings of the 20th International Conference on World
+  Wide Web}, WWW '11, pages 567--576, New York, NY, USA, 2011. ACM.
+
+\bibitem{Nenkova:2007:PMI:1233912.1233913}
+A.~Nenkova, R.~Passonneau, and K.~McKeown.
+\newblock The pyramid method: Incorporating human content selection variation
+  in summarization evaluation.
+\newblock {\em ACM Trans. Speech Lang. Process.}, 4(2), May 2007.
+
+\bibitem{DBLP:conf/naacl/NenkovaP04}
+A.~Nenkova and R.~J. Passonneau.
+\newblock Evaluating content selection in summarization: The pyramid method.
+\newblock In {\em {HLT-NAACL}}, pages 145--152, 2004.
+
+\bibitem{nenkova-vanderwende-2005}
+A.~Nenkova and L.~Vanderwende.
+\newblock {The impact of frequency on summarization}.
+\newblock {\em Microsoft Research, Redmond, Washington, Tech. Rep.
+  MSR-TR-2005-101}, 2005.
+
+\bibitem{Nguyen:2007}
+T.~D. Nguyen and M.-Y. Kan.
+\newblock Key phrase extraction in scientific publications.
+\newblock In {\em Proceeding of International Conference on Asian Digital
+  Libraries}, pages 317--326, 2007.
+
+\bibitem{Papineni:2002:BMA:1073083.1073135}
+K.~Papineni, S.~Roukos, T.~Ward, and W.-J. Zhu.
+\newblock Bleu: A method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th Annual Meeting on Association for
+  Computational Linguistics}, ACL '02, pages 311--318, Stroudsburg, PA, USA,
+  2002. Association for Computational Linguistics.
+
+\bibitem{H01-1056}
+D.~Radev, S.~Blair-Goldensohn, Z.~Zhang, and R.~Raghavan.
+\newblock Newsinessence: A system for domain-independent, real-time news
+  clustering and multi-document summarization.
+\newblock In {\em Proceedings of the First International Conference on Human
+  Language Technology Research}, 2001.
+
+\bibitem{aan:anthology}
+D.~Radev, P.~Muthukrishnan, V.~Qazvinian, and A.~Abu-Jbara.
+\newblock The acl anthology network corpus.
+\newblock {\em Language Resources and Evaluation}, pages 1--26, 2013.
+
+\bibitem{Radev2002}
+D.~R. Radev, E.~Hovy, and K.~McKeown.
+\newblock Introduction to the special issue on summarization.
+\newblock {\em Computational Linguistics}, 28(4):399--408, 2002.
+
+\bibitem{Radev:2000:CSM:1117575.1117578}
+D.~R. Radev, H.~Jing, and M.~Budzikowska.
+\newblock Centroid-based summarization of multiple documents: Sentence
+  extraction, utility-based evaluation, and user studies.
+\newblock In {\em Proceedings of the 2000 NAACL-ANLPWorkshop on Automatic
+  Summarization - Volume 4}, NAACL-ANLP-AutoSum '00, pages 21--30, Stroudsburg,
+  PA, USA, 2000. Association for Computational Linguistics.
+
+\bibitem{Radev:2003:ECL:1075096.1075144}
+D.~R. Radev, S.~Teufel, H.~Saggion, W.~Lam, J.~Blitzer, H.~Qi, A.~\c{C}elebi,
+  D.~Liu, and E.~Drabek.
+\newblock Evaluation challenges in large-scale document summarization.
+\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics - Volume 1}, ACL '03, pages 375--382, Stroudsburg,
+  PA, USA, 2003. Association for Computational Linguistics.
+
+\bibitem{384}
+G.~J. Rath, A.~Resnick, and T.~R. Savage.
+\newblock {The formation of abstracts by the selection of sentences. Part I.
+  Sentence selection by men and machines}.
+\newblock 12:139--141+, 1961.
+
+\bibitem{Salton:1986:IMI:576628}
+G.~Salton and M.~J. McGill.
+\newblock {\em Introduction to Modern Information Retrieval}.
+\newblock McGraw-Hill, Inc., New York, NY, USA, 1986.
+
+\bibitem{Salton:1997:ATS:256268.256282}
+G.~Salton, A.~Singhal, M.~Mitra, and C.~Buckley.
+\newblock Automatic text structuring and summarization.
+\newblock {\em Inf. Process. Manage.}, 33(2):193--207, Mar. 1997.
+
+\bibitem{Spearman1904}
+C.~Spearman.
+\newblock The proof and measurement of association between two things.
+\newblock {\em The American Journal of Psychology}, 15(1):pp. 72--101, 1904.
+
+\bibitem{conf/aaai/WanX08}
+X.~Wan and J.~Xiao.
+\newblock Single document keyphrase extraction using neighborhood knowledge.
+\newblock In D.~Fox and C.~P. Gomes, editors, {\em AAAI}, pages 855--860. AAAI
+  Press, 2008.
+
+\bibitem{Witten:1999:KPA:313238.313437}
+I.~H. Witten, G.~W. Paynter, E.~Frank, C.~Gutwin, and C.~G. Nevill-Manning.
+\newblock Kea: Practical automatic keyphrase extraction.
+\newblock In {\em Proceedings of the Fourth ACM Conference on Digital
+  Libraries}, DL '99, pages 254--255, New York, NY, USA, 1999. ACM.
+
+\bibitem{Yeh:2005:TSU:1041178.1041184}
+J.-Y. Yeh, H.-R. Ke, W.-P. Yang, and I.-H. Meng.
+\newblock Text summarization using a trainable summarizer and latent semantic
+  analysis.
+\newblock {\em Inf. Process. Manage.}, 41(1):75--95, Jan. 2005.
+
+\bibitem{DBLP:conf/ranlp/ZeschG09}
+T.~Zesch and I.~Gurevych.
+\newblock Approximate matching for evaluating keyphrase extraction.
+\newblock In {\em Recent Advances in Natural Language Processing, {RANLP} 2009,
+  14-16 September, 2009, Borovets, Bulgaria}, pages 484--489, 2009.
+
+\bibitem{Zha:2002:GSK:564376.564398}
+H.~Zha.
+\newblock Generic summarization and keyphrase extraction using mutual
+  reinforcement principle and sentence clustering.
+\newblock In {\em Proceedings of the 25th Annual International ACM SIGIR
+  Conference on Research and Development in Information Retrieval}, SIGIR '02,
+  pages 113--120, New York, NY, USA, 2002. ACM.
+
+\bibitem{export:69253}
+L.~Zhou, C.-Y. Lin, D.~S. Munteanu, and E.~Hovy.
+\newblock Paraeval: Using paraphrases to evaluate summaries automatically.
+\newblock Association for Computational Linguistics, April 2006.
+
+\end{thebibliography}

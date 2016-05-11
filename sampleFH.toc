@@ -1,0 +1,61 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Evaluation Techniques}{6}
+\contentsline {section}{\numberline {2.1}Introduction}{6}
+\contentsline {section}{\numberline {2.2}Related Work}{8}
+\contentsline {section}{\numberline {2.3}A Sound Baseline for All}{8}
+\contentsline {subsection}{\numberline {2.3.1}The Average Intersection Size}{9}
+\contentsline {section}{\numberline {2.4}The Relativized Scale}{9}
+\contentsline {subsection}{\numberline {2.4.1}Connect Relativized Scale to Absolute Scale}{9}
+\contentsline {subsection}{\numberline {2.4.2}Adjust to the Length Variation}{10}
+\contentsline {subsection}{\numberline {2.4.3}Case Study}{11}
+\contentsline {chapter}{\numberline {3}Evaluation Technique with Multiple References}{13}
+\contentsline {section}{\numberline {3.1}Introduction}{13}
+\contentsline {section}{\numberline {3.2}Related Work}{14}
+\contentsline {section}{\numberline {3.3}Evaluating a System's Performance with Multiple References}{15}
+\contentsline {subsection}{\numberline {3.3.1}Introduction to the Dataset \& System}{15}
+\contentsline {subsection}{\numberline {3.3.2}Confidence based Score}{16}
+\contentsline {section}{\numberline {3.4}Evaluating Multi-document Summary}{16}
+\contentsline {section}{\numberline {3.5}Experimental Results}{17}
+\contentsline {subsection}{\numberline {3.5.1}Correlation between Reference Summaries}{17}
+\contentsline {subsection}{\numberline {3.5.2}Correlation of Ranks: ROUGE-1 vs. i-Score}{18}
+\contentsline {subsection}{\numberline {3.5.3}Correlation with Human Judgement: Guess the \emph {RESPONSIVENESS} score}{18}
+\contentsline {subsection}{\numberline {3.5.4}Critical Discussion}{19}
+\contentsline {section}{\numberline {3.6}Conclusion}{19}
+\contentsline {chapter}{\numberline {4}The Diamond Standard Dataset}{20}
+\contentsline {section}{\numberline {4.1}Introduction}{20}
+\contentsline {section}{\numberline {4.2}Available Datasets}{21}
+\contentsline {section}{\numberline {4.3}Evaluation Strategies So Far}{21}
+\contentsline {section}{\numberline {4.4}The Relativized Scale}{22}
+\contentsline {subsection}{\numberline {4.4.1}A Sound Baseline for All}{22}
+\contentsline {subsection}{\numberline {4.4.2}The Average Intersection Size}{22}
+\contentsline {subsection}{\numberline {4.4.3}The Relativized Scale}{23}
+\contentsline {subsection}{\numberline {4.4.4}Connect Relativized Scale to Absolute Scale}{23}
+\contentsline {section}{\numberline {4.5}Adapt Abstractiveness}{24}
+\contentsline {section}{\numberline {4.6}Scoring Approach}{25}
+\contentsline {section}{\numberline {4.7}Building the Dataset}{25}
+\contentsline {section}{\numberline {4.8}Case Study}{25}
+\contentsline {section}{\numberline {4.9}Conclusion}{26}
+\contentsline {chapter}{\numberline {5}Embedding Knowledge-bases for Evaluation}{27}
+\contentsline {chapter}{\numberline {6}Summarization Model focused on Sentiment}{28}
+\contentsline {section}{\numberline {6.1}Introduction}{28}
+\contentsline {section}{\numberline {6.2}Background Study}{29}
+\contentsline {section}{\numberline {6.3}Anti-Summary}{30}
+\contentsline {section}{\numberline {6.4}Sentiment Analysis: Covering Minimal Issues}{31}
+\contentsline {section}{\numberline {6.5}The Polarity based TextRank Model}{31}
+\contentsline {subsection}{\numberline {6.5.1}Trust Based Network}{32}
+\contentsline {subsubsection}{Bias \& Prestige}{32}
+\contentsline {section}{\numberline {6.6}Text as Graph}{32}
+\contentsline {subsection}{\numberline {6.6.1}Signature Words}{33}
+\contentsline {subsection}{\numberline {6.6.2}Define Nodes \& Edges: From a single sentence}{33}
+\contentsline {subsection}{\numberline {6.6.3}Connect Sentences through Words: Add more Edges/ Update Weights }{33}
+\contentsline {subsection}{\numberline {6.6.4}Keyword Extraction}{34}
+\contentsline {subsection}{\numberline {6.6.5}Sentence Extraction}{34}
+\contentsline {section}{\numberline {6.7}Evaluation}{36}
+\contentsline {subsection}{\numberline {6.7.1}Baseline: \emph {Intersection} of two models vs. the \emph {Random} possibility}{37}
+\contentsline {subsection}{\numberline {6.7.2}Does $(P \cap N)$ indicate something interesting?}{38}
+\contentsline {subsection}{\numberline {6.7.3}How much \emph {relevant information} is retrieved?}{38}
+\contentsline {subsubsection}{Recall \& Precision}{38}
+\contentsline {subsection}{\numberline {6.7.4}Evaluation through examples: ($P\cap N$) is minimal}{39}
+\contentsline {subsection}{\numberline {6.7.5}Evaluation through examples: ($P\cap N$) is maximal}{40}
+\contentsline {section}{\numberline {6.8}Conclusion}{40}
+\contentsline {chapter}{\numberline {7}Conclusion}{42}

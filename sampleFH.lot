@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Sample Cases: {\em i-measure}\relax }}{10}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Author-written Abstract \& TextRank Output\relax }}{11}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.2}{\ignorespaces normalized i-measure of all possible reference pairs for document: $D30053.APW19981213.0224$\relax }}{16}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Confidence Score\relax }}{16}
+\contentsline {table}{\numberline {3.1}{\ignorespaces reference summaries (B,G,E,F) and three machine summaries on document $D30053.APW19981213.0224$\relax }}{16}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Confidence based System Score\relax }}{17}
+\contentsline {table}{\numberline {3.5}{\ignorespaces normalized i-measure of all possible reference pairs for $D30015.APW19981005.1082$\relax }}{18}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Confidence Score\relax }}{18}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Rank Correlations\relax }}{18}
+\contentsline {table}{\numberline {3.8}{\ignorespaces guess score for $D188$, assessor $F$\relax }}{18}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Synset-based Similarity Measure\relax }}{24}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Diamond Standard \& TextRank Output\relax }}{26}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Words \& Their Entities\relax }}{34}
+\contentsline {table}{\numberline {6.2}{\ignorespaces Degree of Similarity\relax }}{34}
+\contentsline {table}{\numberline {6.3}{\ignorespaces A subset of Keywords\relax }}{35}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Sample of top sentences\relax }}{36}
+\contentsline {table}{\numberline {6.5}{\ignorespaces summary \& their average size of intersection\relax }}{37}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Avg. Recall of P, N, T w.r.t. Human Summary\relax }}{39}
+\addvspace {10\p@ }

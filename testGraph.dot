@@ -1,0 +1,12 @@
+digraph G {
+    A [width = .9];
+    C [width = .4];
+    D [width = .4];
+    B [width = .6]; 
+    A -> B [style = dotted, color = black, penwidth = 4];
+    C -> A[ style = solid, penwidth = 2];
+    D -> A [style = solid, penwidth = 1];
+    C -> B[style = dotted, color = black, penwidht = 2];
+    A -> C [style = dashed];
+    A -> D [style = dashed];
+}

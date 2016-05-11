@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sampleFH.aux
+The style file: abbrv.bst
+Database file #1: sigproc.bib
+Repeated entry---line 702 of file sigproc.bib
+ : @inproceedings{Goldstein:1999:STD:312624.312665
+ :                                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 754 of file sigproc.bib
+ : @inproceedings{Hovy:1998:ATS:1119089.1119121
+ :                                             ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "DBLP:conf/acl/ManiM01"
+refers to entry "DBLP:conf/acl/2001c", which doesn't exist
+A bad cross reference---entry "DBLP:conf/cicling/HamidT15"
+refers to entry "DBLP:conf/cicling/2015-2", which doesn't exist
+A bad cross reference---entry "DBLP:conf/petra/HamidT14"
+refers to entry "DBLP:conf/petra/2014", which doesn't exist
+A bad cross reference---entry "DBLP:conf/ecir/HamidHT16"
+refers to entry "DBLP:conf/ecir/2016", which doesn't exist
+A bad cross reference---entry "DBLP:conf/ranlp/ZeschG09"
+refers to entry "DBLP:conf/ranlp/2009", which doesn't exist
+A bad cross reference---entry "conf/aaai/WanX08"
+refers to entry "conf/aaai/2008", which doesn't exist
+A bad cross reference---entry "conf/paclic/BalahurKSSM09"
+refers to entry "conf/paclic/2009", which doesn't exist
+A bad cross reference---entry "Beineke+al:04a"
+refers to entry "Qu+Shanahan+Wiebe:04a", which doesn't exist
+Warning--I didn't find a database entry for "DBLP:conf/petra/2014"
+Warning--I didn't find a database entry for "DBLP:conf/cicling/2015-2"
+Warning--I didn't find a database entry for "DBLP:conf/ecir/2016"
+Warning--I didn't find a database entry for "DBLP:conf/acl/2001c"
+Warning--I didn't find a database entry for "conf/aaai/2008"
+Warning--I didn't find a database entry for "DBLP:conf/ranlp/2009"
+Warning--I didn't find a database entry for "conf/paclic/2009"
+Warning--I didn't find a database entry for "Qu+Shanahan+Wiebe:04a"
+Warning--empty booktitle in Lin04rouge:a
+Warning--can't use both author and editor fields in Maybury:1999:AAT:554275
+Warning--empty journal in 384
+Warning--empty booktitle in export:69253
+You've used 53 entries,
+            2118 wiz_defined-function locations,
+            877 strings with 16033 characters,
+and the built_in function-call counts, 20526 in all, are:
+= -- 2061
+> -- 847
+< -- 26
++ -- 340
+- -- 278
+* -- 1321
+:= -- 3172
+add.period$ -- 173
+call.type$ -- 53
+change.case$ -- 293
+chr.to.int$ -- 0
+cite$ -- 57
+duplicate$ -- 897
+empty$ -- 1710
+format.name$ -- 278
+if$ -- 4536
+int.to.chr$ -- 0
+int.to.str$ -- 53
+missing$ -- 54
+newline$ -- 268
+num.names$ -- 112
+pop$ -- 355
+preamble$ -- 1
+purify$ -- 242
+quote$ -- 0
+skip$ -- 687
+stack$ -- 0
+substring$ -- 1318
+swap$ -- 292
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 208
+warning$ -- 4
+while$ -- 201
+width$ -- 55
+write$ -- 608
+(There were 10 error messages)

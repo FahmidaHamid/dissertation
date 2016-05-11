@@ -1,0 +1,15 @@
+>> This country cannot afford to be materially rich and spiritually poor. >> 7.8420555764e-05 
+>> These measures are based on a series of fundamental premises, grouped under four related headings: 
+First, we need to strengthen our Nation by investing in our youth: 
+The future of any country which is dependent upon the will and wisdom of its citizens is damaged, and irreparably damaged, whenever any of its children is not educated to the full extent of his talent, from grade school through graduate school. >> 4.13368156469e-05 
+>> Today, an estimated 4 out of every 10 students in the 5th grade will not even finish high school - and that is a waste we cannot afford. >> 6.73338399846e-05 
+>> Moreover, all our miracles of medical research will count for little if we cannot reverse the growing nationwide shortage of doctors, dentists, and nurses, and the widespread shortages of nursing homes and modern urban hospital facilities. >> 8.79322162439e-05 
+>> Third, we need to strengthen our Nation by protecting the basic rights of its citizens: 
+The right to competent counsel must be assured to every man accused of crime in Federal court, regardless of his means. >> 7.21905755844e-05 
+>> And the most precious and powerful right in the world, the right to vote in a free American election, must not be denied to any citizen on grounds of his race or color. >> 7.89624064217e-05 
+>> Fourth, we need to strengthen our Nation by making the best and the most economical use of its resources and facilities: 
+Our economic health depends on healthy transportation arteries; and I believe the way to a more modern, economical choice of national transportation service is through increased competition and decreased regulation. >> 3.80563820614e-05 
+>> Local mass transit, faring even worse, is as essential a community service as hospitals and highways. >> 7.80544529572e-05 
+>> Nearly three-fourths of our citizens live in urban areas, which occupy only 2 percent of our land - and if local transit is to survive and relieve the congestion of these cities, it needs Federal stimulation and assistance. >> 5.41192050256e-05 
+>> Finally, our already overcrowded national parks and recreation areas will have twice as many visitors 10 years from now as they do today. >> 0.000125691097628 
+>> If we do not plan today for the future growth of these and other great natural assets - not only parks and forests but wildlife and wilderness preserves, and water projects of all kinds - our children and their children will be poorer in every sense of the word.>> 3.71754772964e-05 
